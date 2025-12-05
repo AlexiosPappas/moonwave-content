@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "sleep-avoid-screens",
+      "mode": "sleep",
+      "title": "Avoid screens 60 minutes before bed",
+      "body": "Blue light from phones, tablets, and laptops can delay melatonin production and make it harder to fall asleep. Try to stop using screens at least 60 minutes before bed and dim the lights in your room."
+    },
+    {
+      "id": "sleep-wind-down",
+      "mode": "sleep",
+      "title": "Create a 10-minute wind-down ritual",
+      "body": "Do the same simple routine before bed every night: wash your face, brush your teeth, maybe read a few pages of a book. Repeating the same actions trains your brain to recognise 'it’s time to sleep now'."
+    },
+    {
+      "id": "relax-breathing-1",
+      "mode": "relax",
+      "title": "Try easy 4-4 breathing",
+      "body": "Breathe in through your nose for a count of 4, hold for 4, and exhale through your mouth for 4. Repeat for 1–2 minutes. This calms your nervous system and reduces physical tension."
+    },
+    {
+      "id": "focus-pomodoro-1",
+      "mode": "focus",
+      "title": "Work in 25-minute focus blocks",
+      "body": "Set a timer for 25 minutes, pick one task, and work on only that. When the timer ends, take a 5-minute break. This keeps your brain engaged without burning out."
+    }
+  ]
+}
