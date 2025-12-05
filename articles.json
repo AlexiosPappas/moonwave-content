@@ -2,28 +2,634 @@
   "version": 1,
   "articles": [
     {
-      "id": "sleep-avoid-screens",
+      "id": "sleep-01",
       "mode": "sleep",
-      "title": "Avoid screens 60 minutes before bed",
-      "body": "Blue light from phones, tablets, and laptops can delay melatonin production and make it harder to fall asleep. Try to stop using screens at least 60 minutes before bed and dim the lights in your room."
+      "level": "basic",
+      "title": "Keep a regular sleep schedule",
+      "body": "Try to go to bed and wake up at roughly the same time every day, even on weekends. A regular schedule trains your internal body clock, so you feel sleepy at the right time and wake up more refreshed."
     },
     {
-      "id": "sleep-wind-down",
+      "id": "sleep-02",
       "mode": "sleep",
-      "title": "Create a 10-minute wind-down ritual",
-      "body": "Do the same simple routine before bed every night: wash your face, brush your teeth, maybe read a few pages of a book. Repeating the same actions trains your brain to recognise 'it’s time to sleep now'."
+      "level": "basic",
+      "title": "Create a simple wind-down routine",
+      "body": "Spend the last 20–30 minutes before bed doing the same quiet activities each night, like washing up, dimming the lights, stretching, or reading a paper book. Repeating the same steps signals to your brain that sleep is coming soon."
     },
     {
-      "id": "relax-breathing-1",
+      "id": "sleep-03",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Limit screens in the last hour",
+      "body": "Screens from phones, tablets, and laptops give off blue light, which can delay the release of melatonin and make it harder to fall asleep. Try to stop using bright screens in the hour before bed, or at least use a warm, dim night mode."
+    },
+    {
+      "id": "sleep-04",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Keep the room dark, cool and quiet",
+      "body": "Most people sleep best in a dark room with a slightly cool temperature and minimal noise. Blackout curtains, a sleep mask, and a consistent, gentle background sound can all help block out distractions."
+    },
+    {
+      "id": "sleep-05",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Watch your caffeine timing",
+      "body": "Caffeine can stay in your system for many hours and is linked with shorter, lighter sleep. Try to avoid coffee, energy drinks, and strong tea in the late afternoon and evening, especially in the 6–8 hours before bedtime."
+    },
+    {
+      "id": "sleep-06",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Go easy on late-night meals",
+      "body": "Large or heavy meals close to bedtime can cause discomfort, reflux, or a warmer body temperature, all of which interfere with sleep. Aim to finish big meals at least 2–3 hours before going to bed and keep late snacks light."
+    },
+    {
+      "id": "sleep-07",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Reserve your bed for sleep",
+      "body": "Try not to work, eat, or scroll on your phone in bed. Keeping the bed mainly for sleep (and sex) helps your brain connect that space with rest, making it easier to feel sleepy when you lie down."
+    },
+    {
+      "id": "sleep-08",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Get morning daylight",
+      "body": "Exposure to natural light in the morning helps set your body clock and supports better sleep at night. Even 10–20 minutes near a window or outside soon after waking can make a difference over time."
+    },
+    {
+      "id": "sleep-09",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Limit long daytime naps",
+      "body": "Short naps can be refreshing, but long or late naps can steal sleep from the night. If you nap, aim for about 20–30 minutes and avoid napping too close to your usual bedtime."
+    },
+    {
+      "id": "sleep-10",
+      "mode": "sleep",
+      "level": "basic",
+      "title": "Set a gentle cut-off time for worries",
+      "body": "If your mind races at night, schedule a “worry time” earlier in the evening. Spend 10–15 minutes writing down worries and possible next steps, then close the notebook and remind yourself that you’ll come back to it tomorrow."
+    },
+    {
+      "id": "sleep-11",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Move your body during the day",
+      "body": "Regular physical activity is linked to better sleep quality and deeper sleep. Even a daily walk can help, especially if it’s earlier in the day. Try to avoid very intense exercise in the last couple of hours before bed."
+    },
+    {
+      "id": "sleep-12",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Be thoughtful with alcohol",
+      "body": "Alcohol can make you feel sleepy at first, but it tends to fragment sleep, reduce REM, and lead to more awakenings later in the night. If you drink, try to do so earlier in the evening and not as a regular sleep aid."
+    },
+    {
+      "id": "sleep-13",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Create a tech-light bedroom",
+      "body": "If possible, keep TVs, laptops, and work devices out of the bedroom. Reducing visual and mental reminders of work or social media helps the room feel like a dedicated sleep space."
+    },
+    {
+      "id": "sleep-14",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Avoid clock-watching at night",
+      "body": "Checking the time repeatedly can increase stress and make it even harder to fall back asleep. If you wake up during the night, avoid looking at the clock; instead, focus on a calming thought or breathing pattern."
+    },
+    {
+      "id": "sleep-15",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Get out of bed if you can’t sleep",
+      "body": "If you’re awake and frustrated for more than about 20 minutes, it can help to get up, go to a dimly lit room, and do something quiet like reading. Return to bed when you feel sleepy again to keep the bed linked with falling asleep."
+    },
+    {
+      "id": "sleep-16",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Try a brief relaxation exercise in bed",
+      "body": "Simple techniques like slow breathing, a body scan, or gently tensing and relaxing each muscle group can help calm your nervous system. Focus on the physical sensations rather than on thoughts about the day."
+    },
+    {
+      "id": "sleep-17",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Tidy your sleep environment",
+      "body": "A cluttered bedroom can add to a feeling of mental noise. Spending just a few minutes clearing surfaces, preparing clothes for tomorrow, or straightening the bed can make the room feel more inviting and restful."
+    },
+    {
+      "id": "sleep-18",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Watch evening fluids",
+      "body": "Drinking a lot right before bed can lead to multiple bathroom trips at night. Try to front-load most of your water intake earlier in the day and sip rather than chug in the last couple of hours before sleep."
+    },
+    {
+      "id": "sleep-19",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Use light to your advantage",
+      "body": "Bright light in the evening can push your body clock later. Keep lights softer and warmer at night, and avoid very bright overhead lighting in the last hour before bed when possible."
+    },
+    {
+      "id": "sleep-20",
+      "mode": "sleep",
+      "level": "intermediate",
+      "title": "Keep wake-up time consistent",
+      "body": "It’s tempting to sleep in a lot on weekends, but huge swings in wake-up time can make Monday mornings tougher. Aim to keep your wake-up within about an hour of your usual time, even on days off."
+    },
+    {
+      "id": "sleep-21",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Make your bed comfortable",
+      "body": "A supportive mattress and pillow that suit your body and sleeping position can reduce discomfort and nighttime awakenings. If a full replacement isn’t possible, even small changes like a mattress topper or better pillow can help."
+    },
+    {
+      "id": "sleep-22",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Use sound intentionally",
+      "body": "Sudden noises can wake you up, but steady, gentle sounds can mask them. A fan, white or brown noise, or soft nature sounds at a constant volume can help your brain tune out small disruptions."
+    },
+    {
+      "id": "sleep-23",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Be kind to yourself on bad nights",
+      "body": "Everyone has rough sleep from time to time. Reminding yourself that one poor night doesn’t ruin everything can reduce stress and make it easier to fall asleep the next night."
+    },
+    {
+      "id": "sleep-24",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Notice how caffeine affects you personally",
+      "body": "People differ in how sensitive they are to caffeine. Pay attention to how timing and dose affect your ability to fall asleep and stay asleep, and adjust your habits based on your own experience."
+    },
+    {
+      "id": "sleep-25",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Use a simple wind-down alarm",
+      "body": "Set an alarm 30–60 minutes before your target bedtime as a reminder to stop intense work, dim lights, and begin your wind-down routine. This turns sleep prep into a habit rather than a last-minute decision."
+    },
+    {
+      "id": "sleep-26",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Journal briefly before bed",
+      "body": "Writing down a few key events of the day and one thing you’re grateful for can help close the mental loop. It moves thoughts from your head onto paper, which can reduce rumination when you’re trying to fall asleep."
+    },
+    {
+      "id": "sleep-27",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Address chronic pain or breathing issues",
+      "body": "If pain, snoring, or breathing problems regularly disturb your sleep, lifestyle tips alone may not be enough. Consider discussing these symptoms with a health professional who can look for underlying causes."
+    },
+    {
+      "id": "sleep-28",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Match your bedroom to your senses",
+      "body": "Small tweaks like softer bedding, calming colors, or a light scent you enjoy can make the bedroom feel more soothing. The goal is a space where your body and brain both get the message: this is a place to rest."
+    },
+    {
+      "id": "sleep-29",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Be patient with habit changes",
+      "body": "Sleep responds to routines over time rather than overnight fixes. When you adjust your schedule or habits, give it one to two weeks of consistency before judging whether it’s helping."
+    },
+    {
+      "id": "sleep-30",
+      "mode": "sleep",
+      "level": "advanced",
+      "title": "Seek help if sleep problems persist",
+      "body": "If you regularly struggle to fall asleep, stay asleep, or feel rested for more than a few weeks, it may be worth speaking with a doctor or sleep specialist. Persistent sleep difficulties can often be improved with the right support."
+    },
+    {
+      "id": "relax-01",
       "mode": "relax",
-      "title": "Try easy 4-4 breathing",
-      "body": "Breathe in through your nose for a count of 4, hold for 4, and exhale through your mouth for 4. Repeat for 1–2 minutes. This calms your nervous system and reduces physical tension."
+      "level": "basic",
+      "title": "Start with three slow breaths",
+      "body": "A simple way to calm your body is to inhale slowly through your nose, pause briefly, and exhale gently through your mouth. Even three slow, deliberate breaths can reduce tension and give your mind a small reset."
     },
     {
-      "id": "focus-pomodoro-1",
+      "id": "relax-02",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Try 4-4-4 breathing",
+      "body": "Breathe in through your nose for a count of 4, hold for 4, and exhale for 4. Repeat for 1–3 minutes. This steady rhythm can lower physical arousal and is easy to use almost anywhere."
+    },
+    {
+      "id": "relax-03",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Relax one body part at a time",
+      "body": "Gently scan your body from toes to head. At each area, notice any tension and soften it on the exhale. This simple body scan helps move your attention away from racing thoughts and back into physical sensations."
+    },
+    {
+      "id": "relax-04",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Use progressive muscle relaxation",
+      "body": "Starting at your feet, lightly tense a muscle group for a few seconds, then release and notice the contrast. Move slowly up the body. This technique can reduce muscle tension and increase your awareness of what relaxed actually feels like."
+    },
+    {
+      "id": "relax-05",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Give your eyes a break",
+      "body": "If you’ve been staring at screens, close your eyes for 30–60 seconds or look at something far away. Let your eye muscles soften. Relaxed eyes can quickly make your whole body feel less keyed-up."
+    },
+    {
+      "id": "relax-06",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Name what you’re feeling",
+      "body": "Putting a simple label on your emotion—“I feel stressed,” “I feel overwhelmed”—can help reduce its intensity. It turns a vague sense of tension into something clearer and easier to work with."
+    },
+    {
+      "id": "relax-07",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Take a mini-break between tasks",
+      "body": "Before jumping from one task to the next, pause for 30–60 seconds. Stand up, stretch, or take a few slow breaths. These tiny breaks reduce accumulated stress and make you more effective over the day."
+    },
+    {
+      "id": "relax-08",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Use your senses to ground yourself",
+      "body": "Look for five things you can see, four you can feel, three you can hear, two you can smell, and one you can taste or imagine. This simple grounding exercise brings your attention back to the present moment."
+    },
+    {
+      "id": "relax-09",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Plan a short daily “unplug” time",
+      "body": "Choose a small window each day—maybe 10–20 minutes—when you intentionally step away from news, social media, and notifications. Use that slot for something that calms you, like stretching, reading, or just sitting quietly."
+    },
+    {
+      "id": "relax-10",
+      "mode": "relax",
+      "level": "basic",
+      "title": "Create a tiny “relax corner”",
+      "body": "You don’t need a full home spa. A chair by a window, a pillow on the floor, or a balcony spot can become your mini-relaxation corner. Use it only for restful activities so your body starts to relax just by going there."
+    },
+    {
+      "id": "relax-11",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Use music intentionally",
+      "body": "Slow, predictable music or sounds can help your nervous system shift into a calmer state. Choose tracks without sudden changes in volume or tempo, and listen with your full attention for a few minutes."
+    },
+    {
+      "id": "relax-12",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Try a brief guided visualization",
+      "body": "Close your eyes and imagine a place where you feel safe and comfortable—a beach, a forest, or a favorite room. Picture details like colors, sounds, and temperature. Visualizing calm scenes can nudge your body into a more relaxed state."
+    },
+    {
+      "id": "relax-13",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Write a quick brain dump",
+      "body": "When your head feels full, set a timer for 5 minutes and write down everything that’s bothering you or needs doing, without editing. You’re not solving problems here—just emptying the mental inbox to ease the load."
+    },
+    {
+      "id": "relax-14",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Practice saying a softer “no”",
+      "body": "Stress often comes from taking on too much. Experiment with gentle phrases like “I can’t take that on right now” or “I need to think about it.” Protecting a bit of time and energy is an important part of staying relaxed."
+    },
+    {
+      "id": "relax-15",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Stretch the areas that tighten first",
+      "body": "Many people hold tension in the neck, shoulders, or jaw. Take one minute to slowly roll your shoulders, stretch your neck, or release your jaw. Pair each movement with a long exhale to help the muscles let go."
+    },
+    {
+      "id": "relax-16",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Use a short mantra on the exhale",
+      "body": "As you breathe out, silently repeat a simple phrase like “I’m safe right now” or “One thing at a time.” Linking a calming thought to your breath can gradually shift your overall tension level."
+    },
+    {
+      "id": "relax-17",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Limit multi-tasking for calm",
+      "body": "Trying to juggle many things at once raises cognitive load and stress. When possible, choose one small task, focus on it for a few minutes, then move on. Single-tasking can feel surprisingly soothing."
+    },
+    {
+      "id": "relax-18",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Notice and relax your posture",
+      "body": "Stress often shows up as hunched shoulders, a tight neck, or shallow breathing. Check in with your posture during the day, gently lengthen your spine, and let your shoulders drop away from your ears."
+    },
+    {
+      "id": "relax-19",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Step outside if you can",
+      "body": "Even a short walk or a few minutes on a balcony can reduce stress. Natural light, fresh air, and a change of scenery help your nervous system reset and give your mind more space."
+    },
+    {
+      "id": "relax-20",
+      "mode": "relax",
+      "level": "intermediate",
+      "title": "Reduce background noise when possible",
+      "body": "Constant noise keeps your brain slightly on guard. When you want to relax, try lowering TV volume, closing a door, or replacing random noise with a steady, gentle sound that you find soothing."
+    },
+    {
+      "id": "relax-21",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Schedule small pleasures on busy days",
+      "body": "On hectic days, plan one or two tiny enjoyable moments—a favorite tea, five minutes of a book, or a song you love. Looking forward to them can lower stress, and actually doing them reminds your brain that the day isn’t only about demands."
+    },
+    {
+      "id": "relax-22",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Practice self-compassion, not self-criticism",
+      "body": "Talking to yourself harshly tends to increase stress and tension. Try speaking to yourself as you would to a good friend: acknowledge that things are hard and that you’re doing the best you can with the resources you have."
+    },
+    {
+      "id": "relax-23",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Use a short gratitude check-in",
+      "body": "Once a day, name one or two things, however small, that you appreciate. This doesn’t erase problems, but it gives your brain a brief break from scanning only for threats and stressors."
+    },
+    {
+      "id": "relax-24",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Limit stimulants when you need to unwind",
+      "body": "Caffeine, nicotine, and very sugary foods can keep your body in a more activated state. If you’re trying to relax in the evening, consider switching to caffeine-free drinks and lighter snacks."
+    },
+    {
+      "id": "relax-25",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Create a simple after-work transition",
+      "body": "When work ends, do one small action that marks the shift: close your laptop, take a brief walk, change clothes, or tidy your desk. This helps your brain move from “doing” mode into a more relaxed state."
+    },
+    {
+      "id": "relax-26",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Accept that thoughts will wander",
+      "body": "During relaxation exercises, your mind will drift—that’s normal. When you notice it, gently bring your attention back to the breath or body without judging yourself. The act of returning is part of the practice."
+    },
+    {
+      "id": "relax-27",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Pick a realistic relaxation window",
+      "body": "You don’t need an hour to benefit. Even 5–10 minutes of intentional relaxation a couple of times a day can add up. Start small and make it consistent rather than aiming for a big routine you can’t keep."
+    },
+    {
+      "id": "relax-28",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Notice the difference before and after",
+      "body": "After a relaxation exercise, take a moment to compare how your body and mind feel compared to a few minutes earlier. This builds awareness that the practice is helping and makes you more likely to use it again."
+    },
+    {
+      "id": "relax-29",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Know when to reach out for support",
+      "body": "If you feel constantly tense, on edge, or overwhelmed for weeks at a time, relaxation tools alone may not be enough. Talking with a health professional or counselor can provide additional options and support."
+    },
+    {
+      "id": "relax-30",
+      "mode": "relax",
+      "level": "advanced",
+      "title": "Treat relaxation as a skill",
+      "body": "Relaxation is not just something that “happens” when life is perfect—it’s a skill that improves with practice. The more often you use these small tools, the easier it becomes for your body to shift out of stress mode."
+    },
+    {
+      "id": "focus-01",
       "mode": "focus",
-      "title": "Work in 25-minute focus blocks",
-      "body": "Set a timer for 25 minutes, pick one task, and work on only that. When the timer ends, take a 5-minute break. This keeps your brain engaged without burning out."
+      "level": "basic",
+      "title": "Define a clear next action",
+      "body": "Before you start working, write down the very next small step, like “outline the email” or “open the document and read the first page.” A precise next action gives your brain a clear target and reduces procrastination."
+    },
+    {
+      "id": "focus-02",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Use 25-minute focus blocks",
+      "body": "Set a timer for about 25 minutes and work on a single task until the timer rings, then take a 5-minute break. These short, intense blocks help maintain concentration and prevent burnout over long stretches."
+    },
+    {
+      "id": "focus-03",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Reduce obvious distractions",
+      "body": "Before a focus block, silence notifications, close unnecessary tabs, and clear the items you don’t need from your desk. It’s easier to stay focused in an environment that isn’t constantly pulling your attention away."
+    },
+    {
+      "id": "focus-04",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Keep a “later list” nearby",
+      "body": "When stray thoughts show up—ideas, to-dos, worries—write them down on a separate list instead of switching tasks. This reassures your brain that you won’t forget them and lets you return to your main task more quickly."
+    },
+    {
+      "id": "focus-05",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Match tasks to your energy",
+      "body": "Notice when you typically feel most alert during the day and schedule demanding tasks in that window. Reserve lower-energy times for routine work. Working with your natural rhythm makes focus feel less forced."
+    },
+    {
+      "id": "focus-06",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Limit heavy multitasking",
+      "body": "Rapidly switching between tasks makes you slower and increases mistakes, even if it feels productive. When possible, group similar tasks together and complete them one after another instead of juggling many at once."
+    },
+    {
+      "id": "focus-07",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Set a simple goal for each session",
+      "body": "Before you start a focus session, write one sentence: “By the end of this session I want to have…”. A clear, realistic goal directs your attention and gives you a small sense of achievement when you finish."
+    },
+    {
+      "id": "focus-08",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Use short, regular breaks",
+      "body": "Your brain can’t stay at maximum focus forever. Brief breaks every 25–50 minutes help clear mental fatigue. Stand up, stretch, or look out a window—then return to your task with fresher attention."
+    },
+    {
+      "id": "focus-09",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Keep water nearby",
+      "body": "Mild dehydration can contribute to tiredness and reduced concentration. Having water within reach makes it easy to sip regularly so you support both your body and your attention."
+    },
+    {
+      "id": "focus-10",
+      "mode": "focus",
+      "level": "basic",
+      "title": "Tidy your work surface",
+      "body": "A very cluttered workspace can pull small bits of your attention in many directions. Spending a few minutes to clear the area around your current task can make it easier to stay mentally on track."
+    },
+    {
+      "id": "focus-11",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Use sound to support concentration",
+      "body": "Some people focus better with steady background noise or gentle instrumental music that doesn’t demand attention. Experiment with different sounds and volumes to see what helps you stay engaged without becoming a distraction."
+    },
+    {
+      "id": "focus-12",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Start with a tiny commitment",
+      "body": "If a task feels heavy, commit to just five minutes of effort. Once you’ve started, it’s often easier to keep going. This lowers the barrier to beginning work, which is often the hardest part."
+    },
+    {
+      "id": "focus-13",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Group similar tasks together",
+      "body": "Batching similar tasks—like answering emails, making calls, or doing admin work—reduces the need to switch mental gears. This kind of “single theme” time makes focusing feel smoother and more efficient."
+    },
+    {
+      "id": "focus-14",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Clarify what “done” looks like",
+      "body": "Before diving into work, describe what a finished version of the task would look like. Knowing your finish line helps you avoid perfectionism and makes it easier to decide when you’ve done enough for this round."
+    },
+    {
+      "id": "focus-15",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Use your phone intentionally",
+      "body": "During focus time, consider putting your phone in another room, in a drawer, or in “Do Not Disturb” mode. Even just seeing the device can pull part of your attention away from the task at hand."
+    },
+    {
+      "id": "focus-16",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Write a short plan the day before",
+      "body": "At the end of the day, list the 2–3 most important tasks for tomorrow. When you sit down to work, you can start right away instead of burning focus energy deciding what to do."
+    },
+    {
+      "id": "focus-17",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Notice your self-talk while working",
+      "body": "Thoughts like “I’m so bad at this” or “I’m already behind” drain focus. When you catch them, gently redirect to something more helpful, such as “One step at a time” or “Let me try the next small piece.”"
+    },
+    {
+      "id": "focus-18",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Limit the number of open projects",
+      "body": "Working on too many projects at once spreads your attention thin. Whenever possible, pause or finish some items before adding new ones. Depth on fewer tasks often beats shallow progress on many."
+    },
+    {
+      "id": "focus-19",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Check email on a schedule",
+      "body": "Instead of keeping your inbox open all day, choose specific times to process email, like once every couple of hours. This prevents constant interruption and protects blocks of time for deep work."
+    },
+    {
+      "id": "focus-20",
+      "mode": "focus",
+      "level": "intermediate",
+      "title": "Move briefly between focus blocks",
+      "body": "A short walk down the hall, a few stretches, or some light movement between work blocks increases blood flow and can improve alertness. You return to your desk with a fresher brain."
+    },
+    {
+      "id": "focus-21",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Use visual cues for priorities",
+      "body": "Put your main task front and center—a document open full-screen, a sticky note in front of you, or a single tab. Keeping the priority visible reminds your brain where attention should go."
+    },
+    {
+      "id": "focus-22",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Break big tasks into smaller chunks",
+      "body": "If a project feels overwhelming, divide it into steps that each fit into a 25–50 minute block. Completing small chunks builds momentum and makes it easier to maintain focus over time."
+    },
+    {
+      "id": "focus-23",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Review progress, not just what’s left",
+      "body": "At the end of a focus session, quickly note what you finished and what the next step is. Seeing progress, even if the whole project isn’t done, boosts motivation for the next session."
+    },
+    {
+      "id": "focus-24",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Be realistic about focus limits",
+      "body": "Most people can’t do deep, high-quality focus work for many hours in a row. It’s normal for attention to dip over time. Plan only a few deep-focus blocks per day and mix them with lighter tasks."
+    },
+    {
+      "id": "focus-25",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Protect sleep to protect focus",
+      "body": "Lack of sleep strongly affects attention, memory, and decision-making. When your focus is consistently poor, it’s worth checking whether your sleep habits are supporting you or working against you."
+    },
+    {
+      "id": "focus-26",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Notice which environment works best",
+      "body": "Some people focus better with a bit of background buzz, others need silence. Try working in different spots—a quiet room, a café-like space, or with headphones—and notice where you naturally concentrate better."
+    },
+    {
+      "id": "focus-27",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Use mindfulness as a focus gym",
+      "body": "Mindfulness practice—gently returning your attention to the breath or a chosen object—trains the same skill you use to return to a task after distractions. Even a few minutes a day can help."
+    },
+    {
+      "id": "focus-28",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Clarify why the task matters",
+      "body": "When motivation is low, remind yourself how this task connects to something you care about: helping a client, finishing a project, or learning a skill. A clear “why” makes it easier to keep your mind on the work."
+    },
+    {
+      "id": "focus-29",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Adjust when focus just isn’t there",
+      "body": "Some days your attention will be weaker, especially if you’re sick, stressed, or underslept. On those days, aim for shorter focus blocks and simpler tasks instead of forcing unrealistic expectations."
+    },
+    {
+      "id": "focus-30",
+      "mode": "focus",
+      "level": "advanced",
+      "title": "Treat focus as a practice",
+      "body": "Staying focused is a trainable skill, not a fixed trait. Each time you notice your attention has wandered and bring it back to the task, you’re strengthening that skill a little more."
     }
   ]
 }
